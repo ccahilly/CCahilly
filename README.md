@@ -8,7 +8,7 @@
 
 **And here are some highlights so far:**
 
-☕ [Mug Makeover](https://github.com/thomas-yim/cs231n-final) – Generating Realistic Ray-Traced Images from Rasterized Renders. Used a pix2pix cGAN & achieved results 4.5× faster than traditional ray tracing.
+☕ [Mug Makeover](https://github.com/thomas-yim/cs231n-final) – Generating realistic ray-traced images from rasterized renders. Used a pix2pix cGAN & achieved results 4.5× faster than traditional ray tracing.
 
 📷 [Pivot](https://github.com/cs210/Pivot) – Mobile-first 360° virtual tour creation using just your phone. A cheap & fast alternative to Matterport.  
 
