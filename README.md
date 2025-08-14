@@ -1,4 +1,4 @@
-👋 Hi, I’m Caroline. I'm passionate about AI for autonomy, machine learning, and computer vision.  
+**👋 Hi, I’m Caroline. I'm passionate about AI for autonomy, machine learning, and computer vision.**
 
 **🤖 A sneak peak into my upcoming projects with [SISL](https://github.com/sisl):**
 - 🚚 [Validation for a Real-World Autonomous Trucking System](https://github.com/sisl/SimpleADPStack) – Using [RL](https://arxiv.org/abs/1902.01909) & [DiFS](https://arxiv.org/abs/2506.08459) to discover likely failures fast.  
