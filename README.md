@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Caroline
+### 👋 Hi, I’m Caroline
 I'm passionate about **AI for autonomy**, **machine learning**, and **computer vision**.**
 
 ### 🤖 Upcoming Projects with [SISL](https://github.com/sisl)  
