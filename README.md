@@ -1,5 +1,5 @@
-👋 Hi, I’m Caroline.  
-🤖 Passionate about AI for autonomy, machine learning, and computer vision.  
+👋 Hi, I’m Caroline. I'm passionate about AI for autonomy, machine learning, and computer vision.  
+
 **🔬 Upcoming Projects with Stanford’s Intelligent Systems Lab**
 - 🚚 [Validation for a Real-World Autonomous Trucking System](https://github.com/sisl/SimpleADPStack) – Using [RL](https://arxiv.org/abs/1902.01909) & [DiFS](https://arxiv.org/abs/2506.08459) to discover likely failures fast.  
 - ✈️ [Vision-Based Autonomous Taxiing](https://github.com/sisl/VisualTaxiULI) – Developed a particle filter integrating camera-based segmentation maps for autonomous airplane taxiing.  
