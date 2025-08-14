@@ -13,7 +13,7 @@ I'm passionate about **AI for autonomy**, **machine learning**, and **computer v
 
 - 📷 **[Pivot](https://github.com/cs210/Pivot)** – Mobile-first 360° virtual tour creation using just your phone. A cheap & fast alternative to Matterport.
 
-- 🏝️ **[Catan Conqueror](https://github.com/Proud19/catan238)** – Building RL agents to rule the island. Q-learning agent achieved 85% win rate in two-player Catan after 15k iterations.
+- 🏝️ **[Catan Conqueror](https://github.com/Proud19/catan238)** – Building RL agents to rule the island. Q-learning agent achieved 85% win rate.
   
 - 🎵 **[Music Embedding Evaluation](https://github.com/ccahilly/music-embedding)** – Compared music embedding models (CLAP, Wav2Vec 2.0, and MERT) for downstream tasks like genre classification and music captioning.
   
