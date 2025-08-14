@@ -15,6 +15,6 @@ I'm passionate about **AI for autonomy**, **machine learning**, and **computer v
 
 - 🏝️ **[Catan Conqueror](https://github.com/Proud19/catan238)** – Building RL agents to rule the island. Q-learning agent achieved 85% win rate.
   
-- 🎵 **[Music Embedding Evaluation](https://github.com/ccahilly/music-embedding)** – Compared music embedding models (CLAP, Wav2Vec 2.0, and MERT) for downstream tasks like genre classification and music captioning.
+- 🎵 **[Music Embedding Evaluation](https://github.com/ccahilly/music-embedding)** – Compareing music embedding models (CLAP, Wav2Vec 2.0, and MERT) for downstream tasks like genre classification and music captioning.
   
 - 🏃‍♀️ **[Stanford Running Club Website](https://github.com/pythonicode/src)** – Shameless plug for [Stanford Running Club](https://stanfordrunningclub.com/). Credit to [Anthony Riley](https://github.com/pythonicode).  
