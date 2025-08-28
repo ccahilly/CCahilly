@@ -3,7 +3,7 @@ I'm passionate about **AI for autonomy**, **machine learning**, and **computer v
 
 ### 🤖 Upcoming Projects with [SISL](https://github.com/sisl)  
 
-- 🚚 **[Validation for a Real-World Autonomous Trucking System](https://github.com/sisl/SimpleADPStack)** – Using [RL](https://arxiv.org/abs/1902.01909) & [DiFS](https://arxiv.org/abs/2506.08459) to discover likely failures fast.  
+- 🚚 **[Validation for a Real-World Autonomous Trucking System](https://github.com/sisl/SimpleADPStack)** – Using [RL](https://arxiv.org/abs/1902.01909) & [Diffusion Models](https://arxiv.org/abs/2506.08459) to discover likely failures fast.  
 
 - ✈️ **[Vision-Based Autonomous Taxiing](https://github.com/sisl/VisualTaxiULI)** – My contribution: preliminary particle filter that uses camera-based segmentation maps to estimate the plane's true position/orientation. 
 
