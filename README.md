@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Caroline
-I'm excited about about **AI for autonomy**, **machine learning**, and **computer vision**.
+I'm passionate about **AI for autonomy**, **machine learning**, and **computer vision**.
 
 ### 🤖 Upcoming Projects with [SISL](https://github.com/sisl)  
 
